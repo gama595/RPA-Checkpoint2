@@ -10,6 +10,10 @@ Um pequeno empresário possui algumas poucas salas de cinema e percebe que as di
 6. Além disso, um sistema de compras online deve ser criado. Será desenvolvido uma API com endpoint de PUT, em que no corpo da requisição deve ser enviado o nome do filme e o método deve incrementar 1 na coluna n_orders da tabela criada anteriormente. O retorno do método, será a sugestão de 5 filmes do mesmo genero do filme comprado, visto na tabela "SixMonthsBefore", em ordem decrescente de n_orders;
 7. Quando a estreia de um filme da tabela "SixMonthsAfter" passar, o filme deve ser removido da tabela e colocado na tabela "SixMonthsBefore".
 
+---
+
+## [Link Documentação](https://docs.google.com/document/d/1mxPQ3ARuFgfofd84u-ZM2fC0WKsg7MUGgVAKtggl9Us/edit)
+
 
 ## Integrantes
 André Gomes Monteiro      RM: 89168\
